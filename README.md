@@ -1,3 +1,5 @@
+Change a little bit & pull request.
+
 # Project 2: Battle Game
 
 ## 前言
